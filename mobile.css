@@ -1,0 +1,27 @@
+.btn-primar {
+    background: red;
+}
+
+.text-container {
+    border: 10px solid rgba(255, 0, 0, 0.356)!important;
+   font-size: 100px;
+}
+
+.header {
+    background: url("/images/fuegos-artificiales-en-mexico-preguntas-comunes-1-compressor-Dec-17-2022-07-00-14-4563-PM.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.text-container-2 {
+    border: 10px solid rgba(255, 0, 0, 0.356)!important;
+}
+
+span {
+    font-family: 'Taprom', sans-serif;
+	font-size: 7rem !important;
+	margin-top: -50px;
+    color: red;
+    text-transform: uppercase;
+}
