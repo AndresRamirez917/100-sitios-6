@@ -19,16 +19,25 @@ h2 {
     font-family: "Catamaran", sans-serif;
 }
 
-.text-container {
-    border: 10px solid #CFA674 !important;
-   font-size: 100px;
-}
-
 .header {
     background: url("/images/background.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+.text-title {
+    font-size: 100px;
+}
+
+.text-container {
+    border: 10px solid #CFA674 !important;
+   font-size: 100px;
+}
+
+.new {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
 }
 
 .text-container-2 {
@@ -50,6 +59,14 @@ hr {
 
 } */
 
+span {
+    font-family: 'Taprom', sans-serif;
+	font-size: 7rem !important;
+	margin-top: -50px;
+    color: #CFA674;
+    text-transform: uppercase;
+}
+
 .btn-primar {
     padding: 10px 100px;
     color:white;
@@ -62,19 +79,5 @@ hr {
 	background: #4d4d4d;
 }
 
-.text-title {
-    font-size: 100px;
-}
 
-span {
-    font-family: 'Taprom', sans-serif;
-	font-size: 7rem !important;
-	margin-top: -50px;
-    color: #CFA674;
-    text-transform: uppercase;
-}
 
-.new {
-    font-family: 'Courier New', Courier, monospace;
-    font-weight: bolder;
-}
