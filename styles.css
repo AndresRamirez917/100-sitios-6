@@ -36,6 +36,22 @@ h2 {
     text-transform: none;
 }
 
+.flex {
+    display: flex;
+    flex: 1;
+    gap: 10px;
+}
+
+.header .card img{
+    width: 100%;
+}
+
+.header .card {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 2rem;
+}
+
 .text-title {
     font-size: 100px;
 }
